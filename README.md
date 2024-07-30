@@ -1,4 +1,4 @@
 # project-demo
 this is my first git repo
 <br>
-author - ankit
+author - ankit sehgal (ims noida)
